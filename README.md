@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi! 👋 I'm [Juan Diego](https://klashxx.github.io/)
+<p align="center">
 
-<!--
-**klashxx/klashxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/juandiegogodoy/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/1200821/juan-diego-godoy-robles?tab=profile">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<a href="#iblancasa-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=klashxx&show_icons=true&count_private=true&include_all_commits=true" alt="iblancasa" align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :nerd_face: In love with **awk** and learning Scala
+- 👯 Always open for new challenges!
