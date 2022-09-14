@@ -10,8 +10,8 @@
   </a>
 </p>
 
-<a href="#iblancasa-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=klashxx&show_icons=true&count_private=true&include_all_commits=true" alt="iblancasa" align="right" />
+<a href="#klashxx-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=klashxx&show_icons=true&count_private=true&include_all_commits=true" alt="klashxx" align="right" />
 </a>
 
 - :nerd_face: In love with **awk** and learning Scala
